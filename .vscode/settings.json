@@ -1,0 +1,9 @@
+{
+    "emmet.showAbbreviationSuggestions": true,
+    "emmet.preferences": {
+    
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
